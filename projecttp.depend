@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651311384 source:c:\users\aladd\desktop\projecttp\main.c
+	"project.h"
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+
+1651004579 c:\users\aladd\desktop\projecttp\project.h
+
+1651319575 source:c:\users\aladd\desktop\projecttp\project.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"project.h"
+
